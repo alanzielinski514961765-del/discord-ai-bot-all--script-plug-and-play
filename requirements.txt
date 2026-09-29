@@ -1,0 +1,4 @@
+discord.py
+groq
+google-genai
+openai
