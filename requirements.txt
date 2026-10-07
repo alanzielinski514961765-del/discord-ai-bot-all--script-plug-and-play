@@ -1,0 +1,8 @@
+discord.py
+groq
+google-genai
+libsql-client
+psutil
+httpx
+aiohttp
+pylint
